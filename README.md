@@ -5,4 +5,4 @@ Soluções e códigos desenvolvidos nos dojos de programação promovidos pelo c
 
 | Versão  |  Problema              | Data       |
 | ------- | ---------------------- | ---------- |
-|  [01](I Coding Dojo)     |  Escrevendo no celular | 18/11/2019 |
+|  [01](I%20Coding%20Dojo)|  Escrevendo no celular | 18/11/2019 |
