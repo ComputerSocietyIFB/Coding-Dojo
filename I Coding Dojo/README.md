@@ -1,6 +1,8 @@
 # I Coding Dojo
 Realizado em 18/11/2019
 
+Mestre: Guilherme Paiva
+
 ## O Problema
 
 Na primeira edição do Dojo de Programação realizado pelo capítulo, foi proposto o problema **Escrevendo no Celular**.
@@ -16,6 +18,9 @@ Devemos desenvolver um programa em **Python** que dado uma entrada em texto, pro
 ## Recursos
 
 Todos os códigos foram escritos no editor texto [Sublime Text 3](https://www.sublimetext.com/) na linguagem [Python 3.7.5](https://www.python.org/).
+
+Nesta pasta se encontra a [solução](Solution) proposta pelo mestre, e os [códigos](Dojo) desenvolvidos na seção.
+
 
 ### Testes
 Para realizar os testes, utilizamos a framework [pytest](https://docs.pytest.org/en/latest/).
